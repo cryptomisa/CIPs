@@ -12,9 +12,9 @@
 
 * increasing the number of emails/twitter/slack followers by 2x
 * scale to $100k worth of lifetime work on the platform
-* scale to $25k worth of open work on the platform
+* scale to $25k worth of quarterly velocity on the platform
 * have 15 repeat (3+ times) repo customers
-* Build relationships at github
+* Lay the groundwork for creation of an advisory board which contains other strategically important relationships in the OSS + Blockchain space.
 
 # understand our customer
 
