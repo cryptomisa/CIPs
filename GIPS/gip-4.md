@@ -16,6 +16,11 @@
 * pitch top 20 ethereum projects by market cap
     * close 3/4 of them
 
+# codefund
+* relaunch codefund
+* achieve 15k in monthly revenue
+* prove out cross-sale oppies
+
 # strategic
 
 * Form an advisory board with X strategically important advisors in the space.
