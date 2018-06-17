@@ -13,6 +13,8 @@
 * increasing the number of emails/twitter/slack followers by XXXX
 * scale to XXX worth of quarterly velocity on the platform
 * have XX repeat (3+ times) repo customers
+* pitch top 20 ethereum projects by market cap
+    * close 3/4 of them
 
 # strategic
 
