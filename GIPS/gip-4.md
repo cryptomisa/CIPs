@@ -8,14 +8,22 @@
 # OKRs for Q3 2018
 ------------
 
+
 Scale Product
 - Lifetime Work $500k
 - $150k in Work Done
 - Grow top of marketing funnel by 4k
 
+Increase Quality
+- Triple Active Bounty Hunters
+- Understand Contributors
+- Double Active Funder Numbers
+- Double Organizations
+- Be able to scale up individual markets quickly
+
 Revenue
 - Codefund Revenue $25k
-- Test 2 business models
+- Test 2 Gitcoin business models
 
 Strategic
 - Add 3 Great Advisory Board Members
