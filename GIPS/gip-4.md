@@ -8,24 +8,16 @@
 # OKRs for Q3 2018
 ------------
 
-# scale current platform
+Scale Product
+- Lifetime Work $500k
+- $150k in Work Done
+- Grow top of marketing funnel by 4k
 
-* increasing the number of emails/twitter/slack followers by XXXX
-* scale to XXX worth of quarterly velocity on the platform
-* have XX repeat (3+ times) repo customers
+Revenue
+- Codefund Revenue $25k
+- Test 2 business models
 
-# strategic
-
-* Form an advisory board with X strategically important advisors in the space.
-* Relationships at Github/Microsoft
-
-# understand our customer
-
-* `???`
-
-# rapid hypothesis testing in OSS sustainability
-
-* Launch secret project
-* Launch dev grants
-* `???`
-
+Strategic
+- Add 3 Great Advisory Board Members
+- Launch & test Dev Grants / Secret Project
+- 3 new Grant partnerships
