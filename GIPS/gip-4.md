@@ -29,3 +29,5 @@ Strategic
 - Add 3 Great Advisory Board Members
 - Launch & test Dev Grants / Secret Project
 - 3 new Grant partnerships
+- Deepen our relevance as a place in the Ethereum ecosystem that can do scalable capital deployment.
+- Create awareness of our mission in the broader Open Source ecosystem.
