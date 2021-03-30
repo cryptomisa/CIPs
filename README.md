@@ -1,5 +1,5 @@
-# GIPs
-Gitcoin Improvement Proposals (GIPs) describe standards for the Gitcoin platform, including core protocol specifications, client APIs, community standards, and contract standards.
+# CIPs
+Cryptomisa Improvement Proposals (GIPs) describe standards for the Gitcoin platform, including core protocol specifications, client APIs, community standards, and contract standards.
 
 This process is a fork of [Ethereum EIPs](https://github.com/ethereum/EIPs).
 
