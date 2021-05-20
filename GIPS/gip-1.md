@@ -1,11 +1,11 @@
-    GIP: 1
+    CIP: 1
       Title: GIP Purpose and Guidelines
       Status: Active
       Type: Meta
       Author: Martin Becze <mb@Ethereum.org>, Hudson Jameson <hudson@Ethereum.org> (EIPs).  Kevin Owocki (kevin@gitcoin.co) (GIPS)
       Created: 2015-10-27, 2017-02-01 (EIPs) 2019-03-12 (GIPs)
 
-What is an GIP?
+What is an CIP?
 --------------
 
 GIP stands for Gitcoin Improvement Proposal. An GIP is a design document providing information to the Gitcoin community, or describing a new feature for Gitcoin or its processes or environment. The GIP should provide a concise technical specification of the feature and a rationale for the feature. The GIP author is responsible for building consensus within the community and documenting dissenting opinions.
