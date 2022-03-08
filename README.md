@@ -1,5 +1,5 @@
 # CIPs
-Cryptomisa Improvement Proposals (GIPs) describe standards for the Gitcoin platform, including core protocol specifications, client APIs, community standards, and contract standards.
+Czarcoin Improvement Proposals (CIPs) describe standards for the Czarcoin platform, including core protocol specifications, client APIs, community standards, and contract standards.
 
 This process is a fork of [Ethereum EIPs](https://github.com/ethereum/EIPs).
 
